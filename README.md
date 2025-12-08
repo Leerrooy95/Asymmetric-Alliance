@@ -2,8 +2,7 @@
 
 **Status:** Active / Rolling Assessment  
 **Version:** v3 (International Layer)  
-**Last Updated:** December 2025  
-**Classification:** Open Source Intelligence (OSINT)
+**Last Updated:** December 7, 2025  
 
 ---
 
