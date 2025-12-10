@@ -95,6 +95,22 @@ The influence of the "2008 Class" extends into media and asset management throug
 | **Strive Asset Management** | **J.D. Vance** (Investor) | Founded by Vivek Ramaswamy. Funds explicitly opposed to "ESG" (Environmental, Social, Governance) mandates, creating a capital structure parallel to BlackRock. |
 | **Rumble** | **J.D. Vance** (Investor) | Video platform positioned as the "uncensored" alternative to YouTube (Google), funded by the Narya Capital network. |
 
+### Phase 2 – The Saudi Injection (2023–2025)
+**The "Pass-Through" Defense: How Sovereign Wealth Capitalizes U.S. Weapons Systems**
+
+While Phase 0 (2008) was about *direct* ownership of chips (GlobalFoundries), Phase 2 utilizes a sophisticated **Limited Partner (LP)** structure to fund U.S. defense technology without triggering CFIUS blocks.
+
+| Date | Event | Strategic Implication |
+| :--- | :--- | :--- |
+| **April 2023** | **Sanabil (PIF) Disclosure** | Saudi sovereign fund explicitly lists **Founders Fund** (Peter Thiel) as a Venture Capital partner, normalizing the flow of capital. |
+| **June 2025** | **Anduril Series G ($2.5B)** | Founders Fund leads the largest round in Anduril history. Saudi LP capital effectively underwrites the expansion of U.S. autonomous weapons manufacturing ("Arsenal-1").|
+| **Nov 2025** | **The Mnzil Pivot** | Founders Fund leads its first-ever deal *inside* Saudi Arabia (Mnzil), proving a "Quid Pro Quo": Access to Saudi capital requires building Saudi infrastructure. |
+
+**The Mechanism: The "Blind Pool"**
+* **The Source:** Sanabil Investments (Saudi Ministry of Finance/PIF).
+* **The Conduit:** Founders Fund (U.S. GP).
+* **The Asset:** Anduril Industries (U.S. Defense Prime).
+* **The Risk:** The U.S. defense industrial base becomes dependent on Saudi liquidity to scale production, creating a hidden "kill switch" on innovation speed based on oil market health.
 
 ---
 
