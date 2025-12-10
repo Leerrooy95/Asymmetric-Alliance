@@ -73,7 +73,6 @@ This repository contains a multi-layer intelligence assessment documenting struc
 * **Waleed Al Mokarrab Al Muhairi (COO, Mubadala):** Instrumental in the negotiations for the AMD capture.
 * **Tim Geithner (Treasury Secretary / CFIUS Chair):** Oversaw the final approval of the deal during the 2009 transition period.
 * **Satoshi Nakamoto:** The pseudonymous author whose 2008 whitepaper served as the cultural counter-signal to the bailout era.
-* 
 
 ---
 
