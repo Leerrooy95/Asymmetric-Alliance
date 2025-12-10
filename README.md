@@ -1,6 +1,6 @@
 # Sovereign-Capital-Audit
 ### 🛑 CLASSIFICATION: Open Source Intelligence (OSINT) / Strategic Assessment
-**STATUS:** Verified [December 2025]
+**STATUS:** Verified [December 10,n2025]
 **SCOPE:** US Defense Supply Chain & Sovereign Wealth Interdependencies
 
 ## 1. Executive Summary: The Vendor-State Hypothesis
@@ -18,7 +18,7 @@ The traditional "Westphalian" alliance model (NATO, G7) has been superseded by a
 **The Finding:** The US missile shield is powered by chips made in Vermont but owned by Abu Dhabi.
 * **Target Entity:** GlobalFoundries (Fab 9 & 10).
 * **Status:** DoD "Category 1A Trusted Foundry" (Authorized for Classified/Secret fabrication).
-* **Ownership Structure:** ~78-82% owned by **Mubadala Investment Company (UAE)** [Verified SEC Filings].
+* **Ownership Structure:** ~78-82% owned by **Mubadala Investment Company (UAE)**
 * **The Risk:** A single point of failure for US defense chips (45nm SOI) is controlled by a foreign sovereign entity. While protected by a *Special Security Agreement (SSA)*, the economic viability of these assets is determined by a foreign board.
 
 ### B. The Great Capital Rotation (SoftBank Pivot)
@@ -38,26 +38,30 @@ The traditional "Westphalian" alliance model (NATO, G7) has been superseded by a
 ## 3. Key Players & Strategic Nodes
 *The specific entities and individuals executing the Asymmetric Alliance.*
 
-### A. The "Stargate" Architects (Infrastructure)
+### A. The Executive Architects (Policy & Strategy)
+* **Donald J. Trump (47th US President):**
+    * **The Doctrine:** "America First" re-industrialization funded by allied sovereign capital.
+    * **The Mechanism:** The "One-Approval" process. By slashing regulatory permits for nuclear and AI data centers, the administration unlocks the $1 Trillion "Conditional Capital" pledged by the Gulf.
+* **JD Vance (The Political Architect):**
+    * **Policy Role:** The primary advocate for rolling back Biden-era "AI Diffusion Rules," allowing the sale of high-end Nvidia chips to the Gulf to cement "Dollar Dominance".
+
+### B. The "Stargate" Builders (Infrastructure)
 * **Elon Musk (xAI / SpaceX):**
     * **The Deal:** Verified partnership with **Humain** (Saudi State AI) to build a **500MW AI Data Center** in the Kingdom.
-    * **Strategic Role:** Musk provides the "Compute Sovereignty" (xAI) and "Orbital Transport" (SpaceX) that the Gulf craves.
+    * **Strategic Role:** Provides the "Compute Sovereignty" (xAI) and "Orbital Transport" (SpaceX) that the Gulf craves.
 * **Larry Ellison (Oracle):**
-    * **The Deal:** Oracle is the "AI Landlord" for the alliance, securing a **$300 Billion contract with OpenAI** to build the 4.5GW "Stargate" clusters.
-    * **The Nexus:** Oracle's cloud infrastructure acts as the "Data Embassy" for sovereign Gulf workloads, bridging the gap between US software and Saudi energy.
+    * **The Deal:** Oracle is the "AI Landlord," securing a **$300 Billion contract** to build the 4.5GW "Stargate" clusters.
+    * **The Nexus:** Oracle's cloud infrastructure acts as the "Data Embassy" for sovereign Gulf workloads.
 
-### B. The "Silicon Right" (Defense & Ideology)
+### C. The "Silicon Right" (Defense & Ideology)
 * **Peter Thiel (Founders Fund / Palantir):**
-    * **The Nexus:** Palantir's strategic partnership with Israel and deep ties to the US security state define the software layer of the alliance.
+    * **The Nexus:** Palantir's strategic ties to the US security state define the software layer of the alliance.
     * **The Pivot:** His portfolio company **Anduril Industries** formed a Joint Venture with **EDGE Group (UAE)** to manufacture autonomous drones *inside* Abu Dhabi, verifying the "offshoring of defense production" thesis.
-* **JD Vance (The Political Architect):**
-    * **Policy Role:** The primary advocate for rolling back Biden-era "AI Diffusion Rules," allowing the sale of high-end Nvidia chips to the Gulf in exchange for "Dollar Dominance".
-    * **The Doctrine:** "America First" is operationalized by using Gulf capital to re-industrialize the US defense base.
 
-### C. The Sovereign Brokers (Capital)
+### D. The Sovereign Brokers (Capital)
 * **Mubadala Investment Co. (UAE):** Holds the "Shield" (GlobalFoundries). Willing to sustain low-margin defense fabs in exchange for security guarantees.
 * **MGX (Abu Dhabi):** The new sovereign vehicle specifically designed for AI deals (Microsoft/G42), distinct from legacy oil wealth.
-* **Public Investment Fund (PIF - Saudi Arabia):** The "Industrial" scaler. Moving beyond passive stakes to owning the physical supply chain (Lucid Motors, MP Materials, Humain AI).
+* **Public Investment Fund (PIF - Saudi Arabia):** The "Industrial" scaler. Moving beyond passive stakes to owning the physical supply chain (Lucid Motors, MP Materials).
 
 ---
 
@@ -66,9 +70,9 @@ The traditional "Westphalian" alliance model (NATO, G7) has been superseded by a
 
 | Metric | Previous Claim (Erroneous) | Verified Reality (Corrected) | Strategic Implication |
 | :--- | :--- | :--- | :--- |
-| **Japan-China Stats** | "+700% joint AI patents" | **+700% Transport/Battery Patents** | China dominates the *physical* supply chain (EVs), not just the digital one. |
-| **SoftBank China** | "$31.2B Exposure" | **<$2B Exposure (Divestment)** | The "Capital Rotation" is real; SoftBank is betting on the US, not China. |
-| **Labor Flow** | "+740% IT Labor in Japan" | **N/A (Statistical Conflation)** | Japan's vulnerability is "Hollowed Out" manufacturing, not labor migration. |
+| **Japan-China Stats** | "+700% joint AI patents" | **+700% Transport/Battery Patents**. | China dominates the *physical* supply chain (EVs), not just the digital one. |
+| **SoftBank China** | "$31.2B Exposure" | **<$2B Exposure (Divestment)**. | The "Capital Rotation" is real; SoftBank is betting on the US, not China. |
+| **Labor Flow** | "+740% IT Labor in Japan" | Japan's vulnerability is "Hollowed Out" manufacturing, not labor migration. |
 
 ---
 
