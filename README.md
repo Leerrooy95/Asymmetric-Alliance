@@ -85,6 +85,16 @@ The "Phase 0" capture was not an isolated event; it built the infrastructure for
 | **Strategic Risk** | Manufacturing U.S. defense chips while owning fabs in China. | Training U.S. AI models while maintaining deep ties to Huawei. |
 | **The Pattern** | U.S. accepts capital to save a distressed asset (AMD). | U.S. accepts capital to scale a resource-intensive technology (AI). |
 
+### The Extended Network: Media & Ideology
+The influence of the "2008 Class" extends into media and asset management through key proxies and family members.
+
+| Figure / Entity | Connection | Role in the Alliance |
+| :--- | :--- | :--- |
+| **Blake Masters** | **Peter Thiel** (Protégé) | Received **$13.5M** from Thiel for his Senate run. Represents the "Nationalist" political wing. |
+| **David Ellison** | **Larry Ellison** (Son) | Merged Skydance Media with **Paramount** ($8B deal), effectively bringing a legacy media giant into the Oracle/Ellison orbit. |
+| **Strive Asset Management** | **J.D. Vance** (Investor) | Founded by Vivek Ramaswamy. Funds explicitly opposed to "ESG" (Environmental, Social, Governance) mandates, creating a capital structure parallel to BlackRock. |
+| **Rumble** | **J.D. Vance** (Investor) | Video platform positioned as the "uncensored" alternative to YouTube (Google), funded by the Narya Capital network. |
+
 
 ---
 
