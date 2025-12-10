@@ -88,17 +88,3 @@ The Alliance relies on a bifurcated chip supply chain.
 The US maintains leverage through the "October 7" Export Controls.
 * **Mechanism:** The US restricts high-end AI chip exports to the Middle East to prevent transshipment to China.
 * **The Deal:** Entities like **G42 (UAE)** must strip out Chinese hardware (Huawei) and submit to intrusive US inspections to receive Nvidia chips (e.g., The Microsoft-G42 Deal).
-
----
-
-## 6. Repository Structure
-
-* **`/1_Executive_Briefings`**: High-level strategic assessments for policymakers.
-* **`/2_Verified_Intelligence`**:
-    * `/Capital_Flows`: SoftBank, Vision Fund, and Sovereign Wealth data.
-    * `/Semiconductors`: GlobalFoundries ownership and TSMC dependency maps.
-    * `/Energy_Nexus`: Nuclear and Solar infrastructure projects ("Stargate").
-* **`/3_Strategic_Gaps`**: Analysis of Export Controls and the Taiwan Vulnerability.
-
-## License
-Open Source Intelligence (OSINT). Public Domain.
